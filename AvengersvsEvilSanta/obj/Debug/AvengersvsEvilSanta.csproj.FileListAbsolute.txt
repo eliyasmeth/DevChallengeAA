@@ -1,0 +1,16 @@
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\AvengersvsEvilSanta.dll.config
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\AvengersvsEvilSanta.dll
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\AvengersvsEvilSanta.pdb
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\Nancy.Bootstrappers.StructureMap.dll
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\Nancy.dll
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\Nancy.Hosting.Aspnet.dll
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\StructureMap.dll
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\StructureMap.Net4.dll
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\Nancy.xml
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\Nancy.Hosting.Aspnet.xml
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\StructureMap.pdb
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\StructureMap.xml
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\StructureMap.Net4.pdb
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\obj\Debug\AvengersvsEvilSanta.csprojResolveAssemblyReference.cache
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\obj\Debug\AvengersvsEvilSanta.dll
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\obj\Debug\AvengersvsEvilSanta.pdb
