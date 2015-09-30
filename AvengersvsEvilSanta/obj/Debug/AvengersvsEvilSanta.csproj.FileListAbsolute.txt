@@ -14,3 +14,5 @@ C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\Avengers
 C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\obj\Debug\AvengersvsEvilSanta.csprojResolveAssemblyReference.cache
 C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\obj\Debug\AvengersvsEvilSanta.dll
 C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\obj\Debug\AvengersvsEvilSanta.pdb
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\Newtonsoft.Json.dll
+C:\Users\Eliseo Yasmeth\Documents\Acklen Avenue\Projects\DevChallengeAA\AvengersvsEvilSanta\bin\Newtonsoft.Json.xml
